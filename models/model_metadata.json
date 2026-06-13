@@ -1,0 +1,22 @@
+{
+  "best_model_name": "Logistic Regression",
+  "feature_columns": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "accuracy": 0.5122,
+  "f1_score": 0.5536,
+  "auc": 0.529,
+  "cv_score": 0.4927
+}
